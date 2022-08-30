@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container{
+    background-image: linear-gradient(#ff6e7f, #bfe9ff);
+    height: 70vh;
+    width: 50vw;
+    margin: 7rem;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 1.9rem;
+    width: 6rem;
+    border-radius: 0.4rem;
+    border: 0.1rem solid black;
+}
+p{
+font-weight: 600;
+}
